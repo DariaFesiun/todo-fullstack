@@ -16,3 +16,12 @@ Runs the server on `http://localhost:4000`
 
 ## Frontend
 The application is compatible with a React frontend that uses this API for task management.
+
+### Launching
+
+```bash
+cd frontend
+npm install
+npm start
+
+The frontend will be available at `http://localhost:3000`
